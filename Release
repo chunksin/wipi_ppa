@@ -1,13 +1,13 @@
 Package: wipi
-Version: 6.1-0
+Version: 6.1-1
 Architecture: armhf
 Maintainer: Richard Gregory<chunksinspace@gmail.com>
-Filename: ./wipi_6.1_all.deb
-Size: 792
-MD5sum: 46e9c3b38101bcaded4565bced5358eb
-SHA1: e705908fbe3029e8907434a3f417f7b9ebe8b679
-SHA256: 4b4a2a1272018d82355a7a67dc5f3c0454acfc6adeba8b4312d688733b5cd9c2
+Filename: ./wipi_6.1-1_all.deb
+Size: 3072
+MD5sum: 1b191dbd4f3cbfd7780aca688173de95
+SHA1: 737a4c2dc864932b7964f176e69aafb7a0ffd1be
+SHA256: 847a72cebea148a6f7aed91d73c52d7f640e6115315922e71c55b998ee00cefb
 Section: misc
 Priority: optional
-Description: WiPi v6.1 Update
+Description: WiPi v6.1-1 Update
 
