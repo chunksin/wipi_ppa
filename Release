@@ -3,10 +3,10 @@ Version: 6.1-8
 Architecture: armhf
 Maintainer: Richard Gregory<chunksinspace@gmail.com>
 Filename: ./wipi_6.1-8_all.deb
-Size: 58212264
-MD5sum: 9329571a7cb9c6c54d1057169d4ebc91
-SHA1: 6a55e9d78c76aeb4bb9e9d0370808d57171bf658
-SHA256: 22094551dfe8d592c967238a22daefe7bb6ce7ee73619ada8258399c05abff70
+Size: 58214964
+MD5sum: 2d4da8e6b4b5d1ccb359db1f7d692502
+SHA1: 4f87fef62ef5146cd26f5e76ad0e911de32c8a7d
+SHA256: ca36ac6c21d054952b196c74bb02d0de4a06d910c048e085b448e4dce449ea78
 Section: misc
 Priority: optional
 Description: WiPi v6.1-8 Update
