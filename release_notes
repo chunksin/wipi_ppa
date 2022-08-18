@@ -1,6 +1,20 @@
 
 Welcome to the WiPi updater!
 
+6.1-9:
+
+SRAM save and restore in OSM
+ID card emulator refresh - includes JP support
+Naomi netdimm hori/vert setting for OSM auto filter
+New settings definition files for OSM
+Fix time hack code
+MiFare card support 1k/4k
+Hat Rotary works seamlessly
+Hat Serial support for card emulator
+NFC netbooting
+Main Menu System filters
+File Manager with terminal console
+
 6.1-8:
 
 Doom Shareware Alpha
